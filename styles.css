@@ -6,7 +6,8 @@
 
 body {
  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
- background-color: #f0f0f0;
+ /* background-color: #f0f0f0; */
+ /* background-color: #000000; */
 }
 
 header {
@@ -24,7 +25,7 @@ header {
 }
 
 .header2 {
-    color: #4b4747da;
+    color: #afa7a79a;
 }
 
 .header3 {
@@ -32,5 +33,5 @@ header {
 }
 
 .header4 {
-    color: #4b4747da;
+    color: #afa7a79a;
 }
