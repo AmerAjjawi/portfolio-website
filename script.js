@@ -2,7 +2,7 @@
 
 
 
-function toggleheader () {
+function toggleheader() {
     const topnav = document.querySelector(".topNav");
     console.log(topnav);
     
